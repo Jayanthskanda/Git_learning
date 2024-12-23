@@ -4,3 +4,4 @@
  
  I am in branch A
  
+ Branch B is bad.
