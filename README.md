@@ -4,5 +4,5 @@
  
  I am in branch A
  
-**********
-Offence received by A
+
+Offence received by A with respect to B
