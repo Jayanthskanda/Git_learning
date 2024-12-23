@@ -4,4 +4,5 @@
  
  I am in branch A
  
- Branch B is bad.
+
+Offence received by A with respect to B
